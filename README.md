@@ -3,10 +3,9 @@
 Proyek tugas mata kuliah **AI with PROLOG** (Logic, Rules and Representation).
 Program ini menebak penyakit tanaman cabai dari gejala yang dijawab pengguna (y/n), lalu menampilkan penyakit beserta solusi penanganannya.
 
-- **Kelompok:** [nomor kelompok]
+- **Kelompok:** [1]
 - **Anggota:** Arkan, Azhar, Adit, Rifqi
-- **Mata kuliah / kelas:** [nama mata kuliah / kelas]
-- **Video tutorial:** [tempel tautan YouTube di sini setelah diunggah]
+- **Mata kuliah / kelas:** [AI / F]
 
 ## Isi repositori
 
@@ -92,4 +91,4 @@ false.
 
 ## Lisensi
 
-Dibuat untuk keperluan tugas kuliah. [Tambahkan lisensi jika diperlukan, misalnya MIT.]
+Dibuat untuk keperluan tugas kuliah.
